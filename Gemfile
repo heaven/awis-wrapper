@@ -1,7 +1,6 @@
 source "http://rubygems.org"
 
 gem 'nokogiri'
-gem 'extlib'
 
 group :development do
   gem "rspec"
